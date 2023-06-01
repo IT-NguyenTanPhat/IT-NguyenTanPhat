@@ -2,7 +2,7 @@
 <h3 align="center">A Front-end, Back-end Developer</h3>
 
 # 💫 About Me:
-🔭 My career goal is Front-end, Back-end, Fullstack developer<br>🤝 I’m actively seeking job opportunities<br>🌱 I’m currently learning at Ton Duc Thang University<br>💬 I am enthusiastic, motivated, and eager to learn<br>👀 Ask me about ReactJs, ExpressJs, Typescipt<br>✉️ Contact me: tanphat200265@gmail.com
+🔭 My career goal is Front-end, Back-end, Fullstack developer<br>🤝 I’m actively seeking job opportunities<br>🌱 I’m currently learning at Ton Duc Thang University<br>💬 I am enthusiastic, motivated, and eager to learn<br>👀 Ask me about ReactJs, ExpressJs, Javascipt, Typescipt<br>✉️ Contact me: tanphat200265@gmail.com
 
 
 ## 🌐 Socials:
